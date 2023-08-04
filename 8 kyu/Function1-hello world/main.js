@@ -9,6 +9,7 @@
 
 // Write a function "greet" that returns "hello world!"
 
+// **********************************************************//
 
 let greet = function () {
   return ('hello world!')
